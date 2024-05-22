@@ -3,3 +3,14 @@
 * hello world 1
 
 * hello world 2
+
+![제주도 이미지](img/imagefree.png)
+
+```python
+print('hello')
+```
+
+```py
+print('hello')
+```
+
